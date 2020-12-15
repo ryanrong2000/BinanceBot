@@ -1,0 +1,3 @@
+# BinanceBot
+
+Bitcoin Trading Bot
